@@ -1,0 +1,256 @@
+@font-face {
+  font-family: "Product\ Sans\ Regular" ;
+  src: url(./fonts/Product\ Sans\ Regular.ttf);
+}
+@font-face {
+  font-family: "Product\ Sans\ Bold.ttf" ;
+  src: url(./fonts/Product\ Sans\ Bold.ttf);
+}
+
+
+
+
+body {
+    margin: 0;
+   
+    background-color: #F8F8F8;
+    
+  }
+.navbar {
+  height: 102px;
+  padding-left: 51px;
+  padding-right: 69px;
+}
+.contant-container {
+  max-width:  270px;
+ 
+}
+ 
+.Search {
+  margin-left: 102px;
+
+ }
+.searchicon {
+margin-right: 10px;
+margin-top: 3px;
+width: 24px;
+height: 24px;
+ }
+ .Search input {
+  border:0;
+  background-color: transparent;
+  width: 100px;
+  height: 30px;
+  outline: none ;
+ }
+ .Profile {
+  padding-left: 35px;
+  padding-left: 22px;
+  margin-top: 24px;
+ 
+ }
+ .points {
+  margin-left: 20px;
+  margin-right: 20px;
+  gap: 20px;
+
+ }
+ .logo {
+  margin-right: px;
+ }
+ .Profile h4 {
+  color: #000000 ;
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-family: "Product\ Sans\ Bold.ttf" ;
+
+ }
+ .Profile h6 {
+  color: #A4A4A4;
+  font-size: 10px;
+  line-height: 15.7px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-family: "Product\ Sans\ Regular" ;
+ }
+ .navigation .navigation-link .active {
+  background-color: #F8F8F8;
+  
+ }
+ .navigation .navigation-link {
+  width: 100%;
+  height: 62px;
+  list-style: none;
+ 
+  padding-top: 32px;
+ }
+ .navigation .navigation-link  a  {
+  width: 100%;
+  height: 62px;
+  list-style: none;
+  text-decoration: none;
+  color: #5932EA;
+  column-gap: 30px;
+  font-weight: 700;
+  font-family: "Product\ Sans\ Bold.ttf" ;
+ }
+ .navigation .navigation-links  a  {
+  width: 100%;
+  height: 62px;
+  list-style: none;
+  text-decoration: none;
+  color:#0C0C0D;
+  column-gap: 30px;
+  font-weight: 400;
+  font-family: "Product\ Sans\ Regular" ;
+ }
+
+ .active {
+  width: 100%;
+  height: 62px;
+  list-style: none;
+  background-color: #E0E0E0;
+  
+ }
+ .navigation  {
+  margin-top: 26px;
+
+ }
+
+ .rect {
+  margin-left: 0;
+  margin-top: -11px;
+ }
+ .name {
+  margin-left: 30px;
+  color: #000000;
+  font-family: "Product\ Sans\ Regular" ;
+  font-weight: 400;
+ }
+ .contant {
+ background-color: #F5F5F5;
+  row-gap: 21px;
+  padding: 41px;
+ }
+ .statistic {
+height: 362px;
+background-color: #ffff;
+
+ }
+ .statistic h4 {
+  color: #000000;
+  font-family: "Product\ Sans\ Bold" ;
+  font-weight: 700;
+ }
+ .mb-0 {
+  color: #000000;
+  font-family: "Product\ Sans\ Bold" ;
+  font-weight: 700;
+ }
+ .select h4 {
+  
+  
+
+ }
+.card-title {
+  font-size: 16px;
+  color:#343434;
+  margin-top: 12px;
+  font-family:  Product Sans;
+  font-family: "Product\ Sans\ Regular" ;
+  font-weight: 400;
+}
+.card-body {
+  height: 139px;
+
+}
+.gap {
+  margin-left: 10px;
+}
+.numbers{
+  font-family:  Product Sans;
+  font-size: 28px;
+  color: #232323;
+  font-weight: 700;
+  font-family: "Product\ Sans\ Bold.ttf" ;
+}
+.card-subtitle {
+  font-family: "Product\ Sans\ Regular" ;
+  font-weight: 400;
+  color:#949494;
+}
+
+.container {
+background-color: #ffff;
+  height: 295px;
+}
+.green  {
+  color: #16C098
+  ;
+}
+.row {
+  font-family: "Product\ Sans\ Bold.ttf" ;
+  font-weight: 700;
+  font-size: 14.5px;
+  color: #000000;
+}
+.circle {
+  width: 350px;
+  height: 295px;
+
+}
+th   {
+  font-family:  Product Sans;
+  color:  #949494;
+}
+.title {
+  font-family: "Product\ Sans\ Bold.ttf" ;
+  font-weight: 700;
+  
+  font-size:20.3px;
+  
+  line-height:  24.62px;
+
+}
+.Filter {
+  font-family: "Product\ Sans\ Bold.ttf" ;
+  font-weight: 700;
+  font-size: 15px;
+
+}
+
+.title1{
+  
+  font-weight: 400;
+  font-size:13px;
+  line-height:  18px;
+ align-items: center;
+ font-family: "Product\ Sans\ Regular" ;
+}
+.bold {
+  font-family: "Product\ Sans\ Bold.ttf" ;
+  font-weight: 700;
+  font-size: 14.5px;
+
+}
+.icons {
+  margin-right: 13px;
+}
+.btn {
+  height: 27px;
+  background-color:#bff8eb }
+
+.btn h6 {
+  align-items: center;
+  font-size: 12px;
+  background-color: #bff8eb;
+  color: #16C098;
+  
+}
+.btn h5 {
+  align-items: center;
+  font-size: 12px;
+  background-color: transparent;
+  width: 60px;
+}
